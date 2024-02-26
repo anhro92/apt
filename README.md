@@ -1,2 +1,2 @@
 # apt
-crypto - tea app
+crypto - apt tea
